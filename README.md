@@ -8,3 +8,5 @@ Use Issues to flag corrections or requests for additional content.
 ## Solutions to exercises
 
 Solutions to exercises requested by readers are progressively being posted [here](https://keithmcnulty.github.io/peopleanalytics-regression-book/solutions).
+
+Using it for learning people analytics 
